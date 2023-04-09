@@ -2,7 +2,7 @@
 
 This project is a command-line game collection that includes different types of games such as math games, bomb defusing games, and flag-guessing games. The project is written in Swift and utilizes various programming concepts and skills, including Protocol-Oriented Programming (POP), Project organization and file structure (Clean Architecture), String manipulation using Result Builder and Extension and et cetera. The project also incorporates colorful and styled text output in the terminal to enhance the user experience (Terminal styling using ANSI escape codes).
 
-![Introduction Demo.](Documentation/introduction.mov)
+![Introduction Demo.](Documentation/intro.mov)
 
 ## Table of Contents
 
