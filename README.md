@@ -81,6 +81,12 @@ Core/Extention/StringColorsAndStyles.swift \
 Core/ValueObjects/GameColor.swift
 ```
 
+Then enter the below command to execute compiled file.
+
+```bash 
+./main
+```
+
 ## Contributors
 
 Feel free to share your ideas or any other problems. 
