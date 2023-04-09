@@ -87,7 +87,7 @@ Then enter the below command to execute compiled file.
 ./main
 ```
 
-![Usage Demo.](Documentation/Usage.mov)
+![Usage Demo.](Documentation/usage.mov)
 
 ## Contributors
 
