@@ -107,4 +107,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 
-`Birthday Surprise Game` is released under an MIT license. See [LICENSE](LICENSE) for more information.
+`CommandLine Game` is released under an MIT license. See [LICENSE](LICENSE) for more information.
