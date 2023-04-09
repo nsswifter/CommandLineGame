@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		91128D9129E311AB00C1652D /* GameColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128D9029E311AB00C1652D /* GameColor.swift */; };
-		91128D9529E32C3100C1652D /* PrintExpensiveString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128D9429E32C3100C1652D /* PrintExpensiveString.swift */; };
-		911AD52629E028CE005887FE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD52529E028CE005887FE /* main.swift */; };
-		911AD54429E02CD0005887FE /* StringColorsAndStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD54329E02CD0005887FE /* StringColorsAndStyles.swift */; };
-		911AD6C129E03564005887FE /* MathGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6BE29E03564005887FE /* MathGame.swift */; };
-		911AD6C229E03564005887FE /* FlagGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6BF29E03564005887FE /* FlagGame.swift */; };
-		911AD6C329E03564005887FE /* BombGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6C029E03564005887FE /* BombGame.swift */; };
-		911AD6C729E03895005887FE /* GameController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6C629E03895005887FE /* GameController.swift */; };
-		911AD6C929E03B88005887FE /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6C829E03B88005887FE /* Game.swift */; };
-		911AD6CB29E04BE6005887FE /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911AD6CA29E04BE6005887FE /* MessageView.swift */; };
+		91128DBD29E34F1D00C1652D /* MathGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DAD29E34F1D00C1652D /* MathGame.swift */; };
+		91128DBE29E34F1D00C1652D /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DAE29E34F1D00C1652D /* Game.swift */; };
+		91128DBF29E34F1D00C1652D /* BombGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DAF29E34F1D00C1652D /* BombGame.swift */; };
+		91128DC029E34F1D00C1652D /* FlagGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DB029E34F1D00C1652D /* FlagGame.swift */; };
+		91128DC129E34F1D00C1652D /* StringColorsAndStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DB229E34F1D00C1652D /* StringColorsAndStyles.swift */; };
+		91128DC229E34F1D00C1652D /* GameColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DB429E34F1D00C1652D /* GameColor.swift */; };
+		91128DC329E34F1D00C1652D /* GameController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DB729E34F1D00C1652D /* GameController.swift */; };
+		91128DC429E34F1D00C1652D /* PrintExpensiveString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DBA29E34F1D00C1652D /* PrintExpensiveString.swift */; };
+		91128DC529E34F1D00C1652D /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DBB29E34F1D00C1652D /* MessageView.swift */; };
+		91128DC629E34F1D00C1652D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91128DBC29E34F1D00C1652D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,17 +32,17 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		91128D9029E311AB00C1652D /* GameColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameColor.swift; sourceTree = "<group>"; };
-		91128D9429E32C3100C1652D /* PrintExpensiveString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintExpensiveString.swift; sourceTree = "<group>"; };
+		91128DAD29E34F1D00C1652D /* MathGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MathGame.swift; sourceTree = "<group>"; };
+		91128DAE29E34F1D00C1652D /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		91128DAF29E34F1D00C1652D /* BombGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BombGame.swift; sourceTree = "<group>"; };
+		91128DB029E34F1D00C1652D /* FlagGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlagGame.swift; sourceTree = "<group>"; };
+		91128DB229E34F1D00C1652D /* StringColorsAndStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringColorsAndStyles.swift; sourceTree = "<group>"; };
+		91128DB429E34F1D00C1652D /* GameColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameColor.swift; sourceTree = "<group>"; };
+		91128DB729E34F1D00C1652D /* GameController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameController.swift; sourceTree = "<group>"; };
+		91128DBA29E34F1D00C1652D /* PrintExpensiveString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrintExpensiveString.swift; sourceTree = "<group>"; };
+		91128DBB29E34F1D00C1652D /* MessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
+		91128DBC29E34F1D00C1652D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		911AD52229E028CE005887FE /* CommandLineGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CommandLineGame; sourceTree = BUILT_PRODUCTS_DIR; };
-		911AD52529E028CE005887FE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		911AD54329E02CD0005887FE /* StringColorsAndStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringColorsAndStyles.swift; sourceTree = "<group>"; };
-		911AD6BE29E03564005887FE /* MathGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MathGame.swift; sourceTree = "<group>"; };
-		911AD6BF29E03564005887FE /* FlagGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlagGame.swift; sourceTree = "<group>"; };
-		911AD6C029E03564005887FE /* BombGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BombGame.swift; sourceTree = "<group>"; };
-		911AD6C629E03895005887FE /* GameController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameController.swift; sourceTree = "<group>"; };
-		911AD6C829E03B88005887FE /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
-		911AD6CA29E04BE6005887FE /* MessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,37 +56,83 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		91128D8E29E3114200C1652D /* App */ = {
+		91128DAA29E34F1D00C1652D /* CommandLineGame */ = {
 			isa = PBXGroup;
 			children = (
-				911AD54729E02D29005887FE /* Controller */,
-				911AD54629E02D23005887FE /* View */,
+				91128DBC29E34F1D00C1652D /* main.swift */,
+				91128DB529E34F1D00C1652D /* App */,
+				91128DAB29E34F1D00C1652D /* Core */,
 			);
-			path = App;
+			path = CommandLineGame;
 			sourceTree = "<group>";
 		};
-		91128D8F29E3114900C1652D /* Core */ = {
+		91128DAB29E34F1D00C1652D /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				911AD54529E02D1C005887FE /* Entity */,
-				911AD54229E02CAB005887FE /* Extention */,
-				91128D9229E311AE00C1652D /* ValueObjects */,
+				91128DAC29E34F1D00C1652D /* Entity */,
+				91128DB129E34F1D00C1652D /* Extention */,
+				91128DB329E34F1D00C1652D /* ValueObjects */,
 			);
 			path = Core;
 			sourceTree = "<group>";
 		};
-		91128D9229E311AE00C1652D /* ValueObjects */ = {
+		91128DAC29E34F1D00C1652D /* Entity */ = {
 			isa = PBXGroup;
 			children = (
-				91128D9029E311AB00C1652D /* GameColor.swift */,
+				91128DAD29E34F1D00C1652D /* MathGame.swift */,
+				91128DAE29E34F1D00C1652D /* Game.swift */,
+				91128DAF29E34F1D00C1652D /* BombGame.swift */,
+				91128DB029E34F1D00C1652D /* FlagGame.swift */,
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		91128DB129E34F1D00C1652D /* Extention */ = {
+			isa = PBXGroup;
+			children = (
+				91128DB229E34F1D00C1652D /* StringColorsAndStyles.swift */,
+			);
+			path = Extention;
+			sourceTree = "<group>";
+		};
+		91128DB329E34F1D00C1652D /* ValueObjects */ = {
+			isa = PBXGroup;
+			children = (
+				91128DB429E34F1D00C1652D /* GameColor.swift */,
 			);
 			path = ValueObjects;
 			sourceTree = "<group>";
 		};
-		91128D9329E32BF900C1652D /* ResultBuilder */ = {
+		91128DB529E34F1D00C1652D /* App */ = {
 			isa = PBXGroup;
 			children = (
-				91128D9429E32C3100C1652D /* PrintExpensiveString.swift */,
+				91128DB629E34F1D00C1652D /* Controller */,
+				91128DB829E34F1D00C1652D /* View */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		91128DB629E34F1D00C1652D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				91128DB729E34F1D00C1652D /* GameController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		91128DB829E34F1D00C1652D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				91128DB929E34F1D00C1652D /* ResultBuilder */,
+				91128DBB29E34F1D00C1652D /* MessageView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		91128DB929E34F1D00C1652D /* ResultBuilder */ = {
+			isa = PBXGroup;
+			children = (
+				91128DBA29E34F1D00C1652D /* PrintExpensiveString.swift */,
 			);
 			path = ResultBuilder;
 			sourceTree = "<group>";
@@ -94,7 +140,7 @@
 		911AD51929E028CE005887FE = {
 			isa = PBXGroup;
 			children = (
-				911AD52429E028CE005887FE /* CommandLineGame */,
+				91128DAA29E34F1D00C1652D /* CommandLineGame */,
 				911AD52329E028CE005887FE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -105,52 +151,6 @@
 				911AD52229E028CE005887FE /* CommandLineGame */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		911AD52429E028CE005887FE /* CommandLineGame */ = {
-			isa = PBXGroup;
-			children = (
-				911AD52529E028CE005887FE /* main.swift */,
-				91128D8E29E3114200C1652D /* App */,
-				91128D8F29E3114900C1652D /* Core */,
-			);
-			path = CommandLineGame;
-			sourceTree = "<group>";
-		};
-		911AD54229E02CAB005887FE /* Extention */ = {
-			isa = PBXGroup;
-			children = (
-				911AD54329E02CD0005887FE /* StringColorsAndStyles.swift */,
-			);
-			path = Extention;
-			sourceTree = "<group>";
-		};
-		911AD54529E02D1C005887FE /* Entity */ = {
-			isa = PBXGroup;
-			children = (
-				911AD6C829E03B88005887FE /* Game.swift */,
-				911AD6BE29E03564005887FE /* MathGame.swift */,
-				911AD6C029E03564005887FE /* BombGame.swift */,
-				911AD6BF29E03564005887FE /* FlagGame.swift */,
-			);
-			path = Entity;
-			sourceTree = "<group>";
-		};
-		911AD54629E02D23005887FE /* View */ = {
-			isa = PBXGroup;
-			children = (
-				911AD6CA29E04BE6005887FE /* MessageView.swift */,
-				91128D9329E32BF900C1652D /* ResultBuilder */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		911AD54729E02D29005887FE /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				911AD6C629E03895005887FE /* GameController.swift */,
-			);
-			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,16 +215,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				911AD6C229E03564005887FE /* FlagGame.swift in Sources */,
-				911AD54429E02CD0005887FE /* StringColorsAndStyles.swift in Sources */,
-				911AD6C929E03B88005887FE /* Game.swift in Sources */,
-				911AD52629E028CE005887FE /* main.swift in Sources */,
-				91128D9529E32C3100C1652D /* PrintExpensiveString.swift in Sources */,
-				91128D9129E311AB00C1652D /* GameColor.swift in Sources */,
-				911AD6C129E03564005887FE /* MathGame.swift in Sources */,
-				911AD6C729E03895005887FE /* GameController.swift in Sources */,
-				911AD6CB29E04BE6005887FE /* MessageView.swift in Sources */,
-				911AD6C329E03564005887FE /* BombGame.swift in Sources */,
+				91128DC429E34F1D00C1652D /* PrintExpensiveString.swift in Sources */,
+				91128DBD29E34F1D00C1652D /* MathGame.swift in Sources */,
+				91128DC229E34F1D00C1652D /* GameColor.swift in Sources */,
+				91128DC529E34F1D00C1652D /* MessageView.swift in Sources */,
+				91128DC129E34F1D00C1652D /* StringColorsAndStyles.swift in Sources */,
+				91128DC029E34F1D00C1652D /* FlagGame.swift in Sources */,
+				91128DC629E34F1D00C1652D /* main.swift in Sources */,
+				91128DBE29E34F1D00C1652D /* Game.swift in Sources */,
+				91128DBF29E34F1D00C1652D /* BombGame.swift in Sources */,
+				91128DC329E34F1D00C1652D /* GameController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
