@@ -2,6 +2,8 @@
 
 This project is a command-line game collection that includes different types of games such as math games, bomb defusing games, and flag-guessing games. The project is written in Swift and utilizes various programming concepts and skills, including Protocol-Oriented Programming (POP), Project organization and file structure (Clean Architecture), String manipulation using Result Builder and Extension and et cetera. The project also incorporates colorful and styled text output in the terminal to enhance the user experience (Terminal styling using ANSI escape codes).
 
+![Introduction Demo.](Documentation/introduction.mov)
+
 ## Table of Contents
 
 - [Project Diagram](#project-diagram)
@@ -47,9 +49,14 @@ This project is a command-line game collection that includes different types of 
 
 The following games are currently included:
 
-- [x] MathGame
-- [x] BombGame
-- [x] FlagGame
+- [x] [MathGame](CommandLineGame/Core/Entity/MathGame.swift)
+![MathGame Demo.](Documentation/mathGame.mov)
+
+- [x] [BombGame](CommandLineGame/Core/Entity/BombGame.swift)
+![BombGame Demo.](Documentation/bombGame.mov)
+
+- [x] [FlagGame](CommandLineGame/Core/Entity/FlagGame.swift)
+![FlagGame Demo.](Documentation/flagGame.mov)
 
 Each game has its own set of rules and gameplay mechanics. See the documentation in each respective file for more information.
 
