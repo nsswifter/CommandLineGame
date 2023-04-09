@@ -35,13 +35,20 @@ This project is a command-line game collection that includes different types of 
 │   │   ├── Extention
 │   │   │   └── StringColorsAndStyles.swift
 │   │   └── ValueObjects
-│   │       └── GameColor.swift
-│   └── main.swift
-│  
-├── CommandLineGame.xcodeproj    
-│  
+│   │       └── GameColor.swift
+│   └── main.swift
+│ 
+├── CommandLineGame.xcodeproj
+│ 
+├── Documentation
+│   ├── bombGame.mov
+│   ├── flagGame.mov
+│   ├── intro.mov
+│   ├── mathGame.mov
+│   └── usage.mov
+│ 
 ├── LICENSE
-│  
+│ 
 └── README.md
 ```
 
