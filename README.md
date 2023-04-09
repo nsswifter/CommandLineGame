@@ -50,12 +50,15 @@ This project is a command-line game collection that includes different types of 
 The following games are currently included:
 
 - [x] [MathGame](CommandLineGame/Core/Entity/MathGame.swift)
+
 ![MathGame Demo.](Documentation/mathGame.mov)
 
 - [x] [BombGame](CommandLineGame/Core/Entity/BombGame.swift)
+
 ![BombGame Demo.](Documentation/bombGame.mov)
 
 - [x] [FlagGame](CommandLineGame/Core/Entity/FlagGame.swift)
+
 ![FlagGame Demo.](Documentation/flagGame.mov)
 
 Each game has its own set of rules and gameplay mechanics. See the documentation in each respective file for more information.
