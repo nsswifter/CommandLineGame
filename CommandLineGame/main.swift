@@ -27,7 +27,7 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 /// SOFTWARE.
 
-// MARK: - Initializing GameController and begins the game using MVC pattern.
+// MARK: - Initializing GameController and begins the game.
 
 var gameController = GameController()
 gameController.startGame()
