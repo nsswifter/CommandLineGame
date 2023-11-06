@@ -13,7 +13,6 @@ This project is a command-line game collection that includes different types of 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributors)
-- [Author](#author)
 - [License](#license)
 
 ## Project Diagram
@@ -112,10 +111,6 @@ Then enter the below command to execute compiled file.
 
 Feel free to share your ideas or any other problems. 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## Author
-
-- [Mehdi Karami](https://www.github.com/mehdi2003karami)
 
 ## License
 
