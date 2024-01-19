@@ -1,4 +1,4 @@
-# <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="50" height="50"/>&nbsp; CommandLine Game
+# <img src="Documentation/commandLineIcon.png" width="50" height="50"/>&nbsp; CommandLine Game
 
 This project is a command-line game collection that includes different types of games such as math games, bomb defusing games, and flag-guessing games. The project is written in Swift and utilizes various programming concepts and skills, including Protocol-Oriented Programming (POP), Project organization and file structure (Clean Architecture), String manipulation using Result Builder and Extension and et cetera. The project also incorporates colorful and styled text output in the terminal to enhance the user experience (Terminal styling using ANSI escape codes).
 
